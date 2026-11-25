@@ -1,3 +1,16 @@
+> **My ARENA progress.** This is my working copy of [ARENA](https://github.com/ARENA-education/ARENA_materials), the Alignment Research Engineer Accelerator course. The course material is ARENA's; my work is in the exercise notebooks of Chapter 0 (Fundamentals):
+>
+> | Part | Topic |
+> | --- | --- |
+> | 0.0 | Prerequisites, einops and einsum |
+> | 0.1 | Ray tracing |
+> | 0.2 | CNNs and ResNets |
+> | 0.3 | Optimization |
+> | 0.4 | Backpropagation (an autograd engine from scratch) |
+> | 0.5.1 / 0.5.2 | VAEs and GANs |
+
+---
+
 ### ARENA [slack channel](https://info-arena.github.io/ARENA_img/slack.html)
 
 * Please report any errors/concerns with the material in #errata.
